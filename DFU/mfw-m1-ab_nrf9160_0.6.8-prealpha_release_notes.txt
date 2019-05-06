@@ -1,0 +1,59 @@
+mfw-m1-ab_nrf9160_0.6.8-prealpha release notes
+-------------------------------------------
+
+** Introduction to the mfw-m1-ab_nrf9160 release notes **
+
+These release notes describe the changes in the mfw-m1_nrf9160 firmware from version to version.
+The release notes are intended to list briefly all relevant changes in a given version. 
+
+Copyright (c) Nordic Semiconductor ASA. All rights reserved.
+
+
+*** mfw-m1-ab_nrf9160_0.6.8-131.prealpha
+************************************
+
+The mfw-m1 is the 3GPP LTE release 13 Cat-M1 firmware for the modem subsystem of nRF9160.
+
+This firmware version is for nRF9160 Dev2 modules.
+
+Operation is enabled on E-UTRA Bands 1, 2, 3, 4, 5, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 27, 28 and 66.
+
+This firmware is a band variant of mfw-m1_nrf9160_0.6.8-131.alpha. For details of 
+functionality, limitations and known issues, see mfw-m1_nrf9160_0.6.8-alpha release notes.
+
+*** MD5 checksums
+*****************
+
+firmware.update.image.hex 
+8971f29120118847135f5f4ab3314c93 (MD5)
+
+firmware.update.image.digest.txt
+a016d48e666b84c5e736502d589a4834 (MD5)
+
+72B3D7C.ipc_dfu.signed.ihex
+1e0ff8c72217309b52fed1a653f22c61 (MD5)
+
+
+*** mfw-m1-ab_nrf9160_0.6.8-30.prealpha
+************************************
+
+The mfw-m1 is the 3GPP LTE release 13 Cat-M1 firmware for the modem subsystem of nRF9160.
+
+This firmware version is for nRF9160 Dev2 modules.
+
+Operation is enabled on E-UTRA Bands 1, 2, 3, 4, 5, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 27, 28 and 66.
+
+This firmware is a band variant of mfw-m1_nrf9160_0.6.8-30.alpha. For details of 
+functionality, limitations and known issues, see mfw-m1_nrf9160_0.6.8-alpha release notes.
+
+*** MD5 checksums
+*****************
+
+firmware.update.image.hex
+6916e263b821d1dc25cf8353d8169950 (MD5)
+
+firmware.update.image.digest.txt
+37ae00ae034f7892dc60218ab391b08e (MD5)
+
+72B3D7C.ipc_dfu.signed.ihex
+1e0ff8c72217309b52fed1a653f22c61 (MD5)
